@@ -1,0 +1,8 @@
+<library path="animal_plugins">
+  <class type="animal_plugins::Cat" base_class_type="animal_base::Pet">
+    <description>This is a cat plugin.</description>
+  </class>
+  <class type="animal_plugins::Fish" base_class_type="animal_base::Pet">
+    <description>This is a fish plugin.</description>
+  </class>
+</library>
