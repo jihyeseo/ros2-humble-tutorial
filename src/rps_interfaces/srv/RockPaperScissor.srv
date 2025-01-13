@@ -1,0 +1,8 @@
+string username
+bool simple_game
+int64 person_left_hand
+int64 person_right_hand
+---
+int64 computer_left_hand
+int64 computer_right_hand
+int64 you_won
